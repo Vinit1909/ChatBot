@@ -1,6 +1,6 @@
 ## Musical Chatbot - Harmony
 
-### Build your own custom musical chatbot with custom interface on top of ChatGPT
+### Build your own musical chatbot with custom interface on top of ChatGPT
 
 Technology Used:
 - LangChain (Prompt Optimization)
